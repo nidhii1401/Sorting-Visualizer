@@ -1,0 +1,1 @@
+Sorting Visualizer is an interactive project designed to provide an engaging way to learn and understand sorting algorithms. It visually demonstrates how different sorting methods work by displaying the step-by-step process in real time.
